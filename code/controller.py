@@ -20,13 +20,15 @@ from conservation import writeall,runthefolder
     To a tsv file named as {motif}proteins.tsv
 """
 if __name__ == "__main__":
-    motif="N-P-X-Y"
+    print("######### Pipeline Started ################")
+    motif=input("Enter The motif you are searching for :")
+    
     print("#########################")
-    getuniprot(motif)
-    getortho(motif)
-    makealignment(motif)
+    #getuniprot(motif)
+    #getortho(motif)
+    #makealignment(motif)
     writeall(motif)
-    f = open(motif+"_proteins/"+motif.replace("-","")+"_results.tsv", "w")
+    f = open("../data/"+motif+"/"+motif+"_results.tsv", "w")
     runthefolder(motif,f)
 
 

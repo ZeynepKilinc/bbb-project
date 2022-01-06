@@ -6,8 +6,8 @@ def getuniprot(motif):
     print("Pipeline started with motif "+ motif)
     print("The code getuniprot.py will be execuded, there will be one output file '[motif]_proteins.tsv'")
     print("---------getuniprot.py started---------")
-    os.system("mkdir "+motif+"_proteins")
-    f = open(motif+"_proteins/"+motif.replace("-","")+"_proteins.tsv", "w")
+    os.system("mkdir ../data/"+motif)
+    f = open("../data/"+motif+"/"+motif+"_proteins.tsv", "w")
     f.write("motifstart"+ "\t" +"motifend"+ "\t" +"siteStart"+ "\t" +"siteEnd"+"\t"+
                 "UniproId"+ "\t" +"EnsemblId"+"\t" +"OrthodbId"+"\t"+"GeneCardsId"+"\t"+"OmaId"+"\t"+"Sequence"+"\n")
 

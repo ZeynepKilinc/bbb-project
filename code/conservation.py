@@ -43,7 +43,7 @@ def conserv2file(filename,motif,protein):
         for aap in range(len(aas)):
             tempdict[aas[aap]]=maindict[pos][aap]
         df = df.append(tempdict, ignore_index=True)
-    df.to_csv(motif+"_conservation/"+motif+"_"+protein+"_conservation.tsv", sep="\t",index=False)
+    df.to_csv("../data/"+motif+"/conservation/"+motif+"_"+protein+"_conservation.tsv", sep="\t",index=False)
     # for pos in maindict.keys():
     #     for aap in range(len(aas)):
     #         aaper.write(str(pos)+ "\t" + str(aas[aap])+"\t"+ str(maindict[pos][aap])+"\n")
@@ -52,12 +52,13 @@ def conserv2file(filename,motif,protein):
             
 
 def writeall(motif):
-    flist=glob.glob(motif+"_msa/*.fasta")
+    flist=glob.glob("../data/"+motif+"/alignment/*.fasta")
     print("Number of proteins with ortholog files for",motif,"is",len(flist),"unique proteins",len(list(set(flist))))
-    os.system("mkdir "+motif+"_conservation")
+    os.system("mkdir ../data/"+motif+"/conservation")
     for i in range(0,len(flist),1):
-        proteinFile = flist[i].replace("\\","/")
-        protein=proteinFile.split("/")[1][:-20]
+        print(flist[i])
+        proteinFile = flist[i]
+        protein=proteinFile.split("/")[4][:-10]
         conserv2file(proteinFile,motif,protein)
 
 
@@ -73,7 +74,7 @@ def getconsv(data):
         print('Sample does not look Gaussian (reject H0)')  
             
 def readconservationfile(motif,protein,filename,f):
-    df = pd.read_csv(motif+"_conservation/"+motif+"_"+protein+"_conservation.tsv", sep='\t')
+    df = pd.read_csv("../data/"+motif+"/conservation/"+motif+"_"+protein+"_conservation.tsv", sep='\t')
     consvlist={}
     for i in range(len(df)):
         m=max(df.loc[i,])
@@ -87,7 +88,7 @@ def readconservationfile(motif,protein,filename,f):
     maxs = [value[0] for key, value in consvlist.items() if value[2]!="g" ]
     
     #print(consvlist)
-    df2 = pd.read_csv(motif+"_proteins/"+motif.replace("-","")+"_proteins.tsv", sep='\t')
+    df2 = pd.read_csv("../data/"+motif+"/"+motif+"_proteins.tsv", sep='\t')
     rows=df2[df2['UniproId'].str.contains(protein)]
     seqDict=fasta2dict(filename)
     

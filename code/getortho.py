@@ -8,9 +8,9 @@ import os
 def getortho(motif):
     print("Ortholog sequences will be retrieved from OMA database for each protein that has the motif in its cytosolic region and has a transmembrane domain")
     print("----------getortho.py started-----------")
-    filein = open(motif.replace("-","")+"_proteins.tsv", "r")
+    filein = open("../data/"+motif+"/"+motif+"_proteins.tsv", "r")
     lines=[]
-    os.system("mkdir "+motif+"_orthologs")
+    os.system("mkdir ../data/"+motif+"/orthologs")
     for line in filein:
         lines.append(line.strip())
 
@@ -27,7 +27,7 @@ def getortho(motif):
         content = r.content
         content=content.decode("utf-8")
         sequences=content.split("\n")
-        f = open(motif+"_orthologs/"+unikod+"_orthologs.fasta", "w")
+        f = open("../data/"+motif+"/orthologs/"+unikod+"_orthologs.fasta", "w")
         sequ=""
         for seq in sequences:
             if len(seq)>0:
