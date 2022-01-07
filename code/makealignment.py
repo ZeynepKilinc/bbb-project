@@ -11,7 +11,6 @@ def makealignment(motif):
     os.system("mkdir ../data/"+motif+"/alignment")
     for i in range(0,len(flist),1):
         fname=flist[i]
-        print(fname)
         fname=fname.split("/")[4][:-16]
         
         os.system("clustalo -i "+"../data/"+motif+"/orthologs/"+fname+"_orthologs.fasta -o "+"../data/"+motif+"/alignment/"+fname+"_msa.fasta --force --auto ")

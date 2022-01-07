@@ -56,7 +56,6 @@ def writeall(motif):
     print("Number of proteins with ortholog files for",motif,"is",len(flist),"unique proteins",len(list(set(flist))))
     os.system("mkdir ../data/"+motif+"/conservation")
     for i in range(0,len(flist),1):
-        print(flist[i])
         proteinFile = flist[i]
         protein=proteinFile.split("/")[4][:-10]
         conserv2file(proteinFile,motif,protein)
@@ -93,11 +92,9 @@ def readconservationfile(motif,protein,filename,f):
     seqDict=fasta2dict(filename)
     
     msaseq = [value for key, value in seqDict.items() if key == protein ]
-    print(msaseq)
     msaseq=msaseq[0]
 
     for i in range(len(rows)):
-        print(rows["motifstart"].values[i])
         motifstart,motifend,gapcount,aacount,msapos,motifscores=rows["motifstart"].values[i],rows["motifend"].values[i],0,0,[],[]
         for a in range(len(msaseq)):
             if msaseq[a] =="-":
@@ -107,7 +104,6 @@ def readconservationfile(motif,protein,filename,f):
                 if motifstart<=aacount<=motifend:
                     msapos.append(gapcount+aacount-1)
                     motifscores.append([consvlist[gapcount+aacount-1][0],msaseq[a]])
-        print(msapos,gapcount,aacount)
         msamean,msameanwogaps,motifmean,motifscore=mean(maxswgaps),mean(maxs),0,[]
         for t in range(len(motifscores)):
             if motif.split("-")[t]=="X":
@@ -148,13 +144,12 @@ def runthefolder(motif,f):
     f.write("UniproId"+ "\t"+"MSA_mean"+"\t" +"MSA_mean_wo_gaps"+
         "\t"+"motifMean"+"\t"+"motifScore"+"\t"+"motifPercent%"+"\t"+"motifPercent_wogaps%"+"\t"+"motifPercent_wogaps2%"+"\n")
        
-    flist=glob.glob(motif+"_msa/*.fasta")
+    flist=glob.glob("../data/"+motif+"/alignment/*.fasta")
     for i in range(0,len(flist),1):
         fname=flist[i]
-        protein=fname.split("\\")[1].split("_")[0]
-        print(fname)
-        filename=fname.replace("\\","/")
-        readconservationfile(motif,protein,filename,f)
+        protein=fname.split("/")[4].split("_")[0]
+        
+        readconservationfile(motif,protein,fname,f)
 # protein="A1KXE4"
 # filename=motif+"_msa/"+protein+"_orthologs_msa.fasta"
 # f = open(motif+"_proteins/"+motif.replace("-","")+"_results.tsv", "w")

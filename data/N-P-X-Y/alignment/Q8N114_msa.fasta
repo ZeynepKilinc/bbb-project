@@ -1,0 +1,770 @@
+>LEPOC14193 | W5N8S9 | OMAGroup:581296 | [Lepisosteus oculatus]
+------------------------------------------------------------
+--MRRDMAGTSLIIFITL--------AVFV----PVA-LSDDCESYIDSLGKFHGEQKCS
+L-----FQFCCGSCENRYCCGRFSDKLDE-DEQKTCFIRRRWDE-----------MGKSG
+EI----AYSAWESMTTSHTSGMGMSIAIG---VTIFIIFIIIIISCCTCSCCCLYKMCRK
+PPRPIVTTTATTTVMQI-----PYPQQ--PAAPQTY-----PGPQY--PG-YQPVPVQPG
+YGNQPL------------------------------------PTAPYPGQQYAPTYPAS-
+-GPPPPYQEAVPGPAPYPPQPAYSPAHPPASYDC--GQPAYPPQQGYP------------
+----------AQPDYNSSQPAYNPAYMDQQKNAY--------------------------
+-----------------------------------
+>ANGAN45117 | XP_035245036 | OMAGroup:581296 | [Anguilla anguilla]
+------------------------------------------------------------
+------MASTSYIIFVLC--------LTFI--------------------PSAFGDCDCS
+F-----YQQCCGTCFNRYCCSDPRSRLDE-S---TCLIWRSDD-----------------
+--------------------SNIVTITSS---IVSFVIFIILIISCCVCPCCCLYKICRK
+P-TPVIATTTTTV-VQS-----AYPPP--PSASQPY-----QGAQY--PG-YQPVPVQPG
+YGGQPAAPY-QGQPFSPGY--------------------QGQPTAPYQGQAFPPGYQGQV
+SGPPPPYQEAGAGYPPV------QAPYSQAGYSP--GQMAYPLQPPTQPGYP--------
+----------PQPDQSVAQPAYNPAFVEPPKTGY--------------------------
+-----------------------------------
+>ANATE03820 | A0A3Q1JXR0 | OMAGroup:581296 | [Anabas testudineus]
+------------------------------------------------------------
+------MASGL--SAVVV---LALCVALAP---CVSA-G-DDCKAYTDQSYTYHIPKTCY
+R-----GSFCCGSCYNRYCCSLRSYELSE-DEQDECYSGF-SF-----------------
+-------------------RSSPMPMVMG---IGISIIFVLIFICCCVCPCCCLYKMCRK
+P-RPVMTTTTHTTVVT-TTPQ-QYPQQ--PVATPAQ-PP---GYQY--SP-YQATSVQPG
+YGSHPMHQGYAAQPMP---------------------------TMPYQGQPYTA------
+-GPPPTYQEAT--GPVYPP---NLMPYSQAAYTP--GQTPYPLQPPAQPQ----------
+-----PNAPPPNTDYL-TQPAYNPDYVVSQPKTG--------------------------
+-----------------------------------
+>SERDU21961 | A0A3B4UWL3 | OMAGroup:581296 | [Seriola dumerili]
+------------------------------------------------------------
+------MASGL--CSVVV---LVLCVVLAP---SVSA-GDNHCKSYTDLTNTYISSKYCY
+S------GFCCGSCMNRYCCQSSFLRLPE-DEQDECSSYH--------------------
+-------------------DMTPLSMVLG---ISTVVVIVLIFICCCVCPCCCLYKACCK
+P-RPVVATTTHTTVVT-TSPQ-PYPQQ--STTMPSQ-PHCYQGAQY--SS-YQPVPVQPG
+YGTQPMPQGYGAQPMP---------------------------TMPYSGKMFTP------
+-GPPPTYQEAT--GPAYPP---KLMPYSQAAFSP--GQPAYPIQPPVQPQ----------
+-----PNAPPAHTDYH-NQPAFNPDFVAP-------------------------------
+-----------------------------------
+>CYNSE03694 | A0A3P8VNW1 | OMAGroup:581296 | [Cynoglossus semilaevis]
+------------------------------------------------------------
+------MASSL--LTIVV---VVLCAVLAP---CVSA-RDSDCLAYD-----YHSKQYCH
+F-----GQFCCGTCRNRYCCSSYLSEFSE-DQQELCLVEN--------------------
+--------------------VSSMSITVT---VISLVSFILIIICCCVCPCCCLYKMCRK
+P-QPVLATTTHTTIVT-STPQ-HYPQQ--PTATHAP-SQPYQSVQY--PP-YQPVPVQPG
+YGAQPMP------------------------------------ATQYQAQPFTP------
+-GPPPSYQEAT--GPAYPP---NPMPYSQAAFSP--NHPPYPMQPPAQHG----------
+-----ASAPPPQMDFL-TQPAYNPDFMAPKTG----------------------------
+-----------------------------------
+>SCOMX27217 | A0A2U9BF88 | OMAGroup:581296 | [Scophthalmus maximus]
+------------------------------------------------------------
+------MASGL--CGVVV---LALCAILCP---CVSA-GDSDCMSYTDSTNMYQGYQSCY
+G------EFCCGTCYNRYCCRQSYMQLSE-DKQEQCEAESILN-----------------
+-------------------HSTPVHMIFG---IVGTIIILLIFICCCVCPCCCMYKVCRK
+P-QPVVATSTHTTIVT-AAPL-NYPQQ--PTATPSQ-PQPYQGGQY--QP-YQPVPVQPG
+YGTQPMPQGYGAQPMP---------------------------AVPFQGQPFVP------
+-GPPPTYQEAT--GPVYSP---NPMSYSQAAFSP--NQPAYPLKPPVQPQVQ--------
+---PPPNAPLANTDYL-AQPAYNPAYAAP-------------------------------
+-----------------------------------
+>GASAC04053 | G3NV95 | OMAGroup:581296 | [Gasterosteus aculeatus]
+------------------------------------------------------------
+------MASDSIGGLVVV---FALSVVLAP---CVSA-G-DDCQAYQNIP-----SQKCY
+L------RFCCGSCLNRYCCSNSLSRFTE-DAQEDCDFIY-SS-----------------
+-------------------HFTPLPMILG---IGSCVVILLIFICCCVCPCCCLYQMCRK
+P-RPVVATSTHTTVVT-TTPQ-QYPRQ--PTATPAQ-PQSYQGGQY--PV-YPPQPVQSG
+YGAQPVPHGYGAQPMPQGYGAQP---------MPQGYG--GQLMAPYPGQAVVA------
+-GPPPTYQEAT--GPGFPP---NPMLYSQAAYSP--GQPAYPLQPPGQPQ----------
+-----PQGPNSHKDYL-AQPAYNPDFTG--------------------------------
+-----------------------------------
+>MOLML02673 | A0A3Q4B762 | OMAGroup:581296 | [Mola mola]
+------------------------------------------------------------
+---------------------------HCL---CLFT-GGTDCESYTDSSNTYHHSKTCW
+Q------GFCCGSCNNRFCCRDSSQRLSE-DRQDECFFSH-SF-----------------
+-------------------PHSPLPMILG---LTSIAAILLIIFCCCVCPCCCIYKMCRK
+P-RPVIATTTT-TVVT-TIPQ-QYPQQ--PTATPVQ---SYQGSQY--PPFFQPVPVQPG
+YPAQPMPRGYGPQPMP---------------------------TSPYQGQPFTA------
+-GPPPTYQEAT--GPAYPP---NPMPYSQAAFTP--GQPVYPLQSPAHPQ----------
+-----PSGPSPHADYL-AQPAYNPEYVAPPPKTG--------------------------
+-----------------------------------
+>ORYLA13914 | ENSORLG00000004797 | OMAGroup:581296 | [Oryzias latipes]
+------------------------------------------------------------
+------MALGP--CSVFL---LVFSVFLAS---HLSA-G-DDCLGYTDTHNKYQHPQDCY
+G------TFCCGNCEYRYCCLNLRKKFSE-DDQNDCYLSPPD------------------
+--------------------FPIPAMVAG---IVGLIAFILIFVCCCVCPCCCLYKMCRK
+P-QPVIATTHHTVIT--SAPG-QYPQQ--PTAVPAQ---SYQGVQP--YPPYQSMAVQPG
+YGTHSMS------------------------------------PAVHQGPQFTP------
+-GPLPTYQEAT-ANPAYPP---QPMPYSQAAFYPGPGQLPYPLQPPVCSN----------
+----ATAPPPAHTDYL-AQPAYNPDYATPPPKTG--------------------------
+-----------------------------------
+>NOTFU16699 | A0A1A8AQ97 | OMAGroup:581296 | [Nothobranchius furzeri]
+------------------------------------------------------------
+------MARGL--PYVVL---VVLCATFAT---CVFAWGDDDCKAYTDSYNIYHAYQTCS
+Y-----LQFCCGSCSNRECCSSNFRRLSD-DAQDKCYNNGKS------------------
+-----------------FPNTSLVPVVIS---SVIGFLAILILVCCCVCPCCCLYSLCRK
+P-RPVVAT-THTTVVT-SIPQ-QYPQQ--PTAVASP-PQPYQATQH--HP-YQPMPVQPS
+YGTQGMP------------------------------------TFPHQGQQFP-------
+--PPPTYQEA--TGPSYPP---QPMPYSQAAYGP--GQPAYPLQPPVQPH----------
+-----PNVPPAQMDYL-SQPAYNPDFVAPPKTG---------------------------
+-----------------------------------
+>KRYMA05194 | A0A3Q3AGD8 | OMAGroup:581296 | [Kryptolebias marmoratus]
+------------------------------------------------------------
+------MALGL--PAVFV---LVLCATFST---CALAWG--DCESYTDSYGKYHRSQSCF
+L-----SGFCCGTCEKRECCDNFNRQLTK-DAQDNCF-----------------------
+--------------------SSPLPMIVG---IVFSIVSLLVFICCCVCPCCCLYKMCRK
+P-QPVLATTTHTTVIT-AAPQ-QYPQQ--PSAAPGP-SQPYHGVQY--AP-YQPMPVQPG
+YGTQGMP------------------------------------TSPPQGQPFMP------
+-GPPPTYQEASEWQEASHSV-----SRNRLVLFIMLGRK---------------------
+-----------KASLLCKVVLLNSRSGAALNKVGSCLRVKELQ-----------------
+-----LWSECF------------------------
+>CYPVA02917 | A0A3Q2GKW7 | OMAGroup:581296 | [Cyprinodon variegatus]
+-----MPHPTRAELEGPRSGSRLPP------SVGGGRWRKLS--------------VLAQ
+GISKAVMASGL--ASLAV---VILCAALSG---RVF--GGDDCKAYRDSFNIFHESQECS
+Y------GFCCGDCYNRKCCTNFWDKLSEV-KQRACDK----------------------
+------------FNDDFMDHDSPIPMIVS---IVGSIFLFLVLICCCICPCCCIYKLCRK
+P-RPVVATTTHTTMVT-SAPQPQYPQQ--PVSASGY-HQPYQAAQY--PP-YQPMPVQPG
+YGTHPTP------------------------------------TLPYAGQPCAP------
+-GPPPPYQEA--IGPAYPPQ--QPMPYSQAAYSP--GQPAYPLQPPAHPQ----------
+-----PNPPPAQSDFL-AQPAYNPDYVVPPKTG---------------------------
+-----------------------------------
+>POEFO00437 | A0A096MDG2 | OMAGroup:581296 | [Poecilia formosa]
+------------------------------------------------------------
+------------------------------------------CKSYRDSYNLYHMSKECK
+W-----GSFCCGTCTSRDCCFDIFIYQFTMYINGERVVPNFDNESLISD-----------
+----------DKFHREFRD-SSYVVMITG---IVGSILFLLLLVCCCICPCCCIYKMCRR
+P-QPVVATTTHTTVVT-SAPQ-QYPQQ--PMSVPGQ-PQPYQATQY--PS-YQPMPVQPG
+YGTQPMA------------------------------------TSPYKGQAFTP------
+-GPPPPYQEASEFGPAYPPT--QPMPYSQAAYNP--GQPAYPLHPPTYPQ----------
+-----PNAPSSHADFL-AQPAYNPDYVAPPTTG---------------------------
+-----------------------------------
+>POERE26703 | A0A3P9NM64 | OMAGroup:581296 | [Poecilia reticulata]
+------------------------------------------------------------
+------MVPGV--SGVVV---LVICASMSI---S--V-FAHDCKSYRDLYNIYHMPKECE
+W-----GSFCCGTCKSRECCYVPFRKLTE-SAQEICDRNTASRGNLDSN-----------
+----------EKFHKEFSSSTHVAVITST---VITAILFLLLLVCCCICPCCCIYKMCRR
+P-QPVVATTTHTTVVT-SAPQ-QYPQQ--PMSVPGQ-PQAYQATQY--PP-YQPMPVQPG
+YGTQPMA------------------------------------MPPYQGQAFTP------
+-GPPPPYQEA--IGPAYPPT--QPMPYSQAAYNP--GQPAYPLHPPTHPQ----------
+-----PNAPSSHADFL-AQPAYNPDYVAPPTTG---------------------------
+-----------------------------------
+>XIPMA18282 | M4AT81 | OMAGroup:581296 | [Xiphophorus maculatus]
+------------------------------------------------------------
+------MVPGV--SGVVV---LVICASMSV---SVFA-SDFDCLPYRDSYNNYHNYKECK
+R------GFCCGSCTSRDCCSDFSRRLNE-NAQERCAEKFPEN-----------------
+-----------------FRDASHVYMISG---IVGSVLSLLILVCCCICPCCCIYKMCRR
+P-QPVVATTTHTTVVT-SAPQ-QYPQQ--PMSVPGQ-PQTYQVAQY--PP-YQPMPVQPG
+YGTHPMP------------------------------------TPPYKGQAFTP------
+-GPPPPYQEA--IGPAYPPN--QPMPYSQAAYNP--GQPAYPLHPPTYPQ----------
+-----PNAPSSHADFR-AQPAYNPDYVAPPTTG---------------------------
+-----------------------------------
+>ASTCA31728 | A0A3P8Q7Z1 | OMAGroup:581296 | [Astatotilapia calliptera]
+------------------------------------------------------------
+------MAPGL--STIVA---LALYVVLFP---CVSA-G-DDCLAYMGQS-----VQKCY
+P------EYCCGNCYYRYCCSSYYSRFKE-DAQKKCSNNVDSFNSASY------------
+----------------AYHIDNTLPMVAG---IVGSIIFVLIFICCCVCPCCCLYNMCRK
+P-RPVVATTTHTTVVTTTTPQ-RYPQQ--PTAVPGQ-SQSYQGMP------YQPVPVQPG
+YPAQSGYPAQSGYPAQPGY------------AAQPGYPAQSMPTSPYHGQPFTP------
+-GPPPSYQDAT--GPAHPP---QQMPYSQAAFTP--GQPAYPLKPPTQPQ----------
+-----PNVPPAGADFL-VQPPYNPAFVAPPP-----------------------------
+-----------------------------------
+>HAPBU26506 | A0A3Q2W3K8 | OMAGroup:581296 | [Haplochromis burtoni]
+------------------------------------------------------------
+------MAPGL--STIVA---LALYVVLFP---CVSA-G-DDCLAYMGQS-----VQKCY
+S------GYCCGSCYNRYCCSSYYSRFKE-DDQKKCSNNVDSFNSASY------------
+----------------EYHIDNTLPMVAG---IVGSIIFVLIFICCCVCPCCCLYNMCRK
+P-RPVVATTTHTTVVTTTTPQ-RYPQQ--PTAVPGQ-SQSYQGMP------YQPVPVQPG
+YPAQSGYPAQSGY------------------PAQPGYPAQSMPTSPYHGQPFTP------
+-GPPPSYQDAT--GPAYPP---QPMPYSQAAFTP--GQPAYPLKPPTQPQ----------
+-----PNVPPAGADFL-VQPPYNPAFVAPPP-----------------------------
+-----------------------------------
+>ORENI10917 | ENSONIG00000005236 | OMAGroup:581296 | [Oreochromis niloticus]
+------------------------------------------------------------
+------MAPGL--STIVA---LALYVVLSP---CVSA-G-DDCLAYTGQS-----FQKCS
+S------EYCCGECNYRYCCSYYYSRFKE-DDQKKCSNNVDSFNSAKY------------
+----------------EYYSPSPLPMVAG---IVGFIIILLIFICCCVCPCCCLYNVCRK
+P-RPVIATTTHTTVVT-TTPR-RYPQQ--PTAVPGQ-SQSYQGVP------YQPVPVQPG
+YPAQPGYPAQPGYPAQPGYPAQPGYPAQSGYSAQPGYPAQPMPTSPYHGQPFTP------
+-GPPPSYQEAT--GPACPP---QPMPYSQAAFTP--GQPAYPLKPPTQPQ----------
+-----PSVPPAGADFV-AQPPYNPDFVAPPP-----------------------------
+-----------------------------------
+>AMPOC17754 | A0A3Q1BPZ9 | OMAGroup:581296 | [Amphiprion ocellaris]
+------------------------------------------------------------
+------MASGL--SSVAV---LALCVVLSP---CVYG-----------------------
+-----------------DHCRDSFWPLSK-EEQEECDYRNF-------------------
+-------------------THSPMPMVVG---VVISVIIMLIFICCCVCPCCCLYRMCRK
+P-QPVIAT-THTTVVT-GTPH-PYPQQ--QAAMPGP-SRSYQAVQY--PP-YQPVPVQPA
+YPAQPMPT-----------------------------------SSPYQGQQFA-------
+--PPPTYQEAT--GPAHPP---QPMPYSQAAYGP--GQPAYPLQPPVQPQ----------
+-----PNAPPAYPDFL-AQPAYNPEYVAPPPKTG--------------------------
+-----------------------------------
+>AMPPE26932 | A0A3P8S787 | OMAGroup:581296 | [Amphiprion percula]
+----------------------MVS------GSGLQRWFRSDQTSSCLAWKETPCFLTRY
+GNLDVTMASGL--PSVAV---LALCVVLSP---CVYG-----------------------
+-----------------DHCRDSFWPLSK-EEQEECDYRNF-------------------
+-------------------THSPMPMVVG---VVISVIIMLIFICCCVCPCCCLYRMCRK
+P-QPVIAT-THTTVVT-GTPH-PYPQQ--QAAMPGP-SRSYQAVQY--PP-YQPVPVQPA
+YPAQPMPT-----------------------------------SSPYQGQQFA-------
+--PPPTYQEAT--GPAHPP---QPMPYSQAAYGP--GQPAYPLQPPVQPQ----------
+-----PNAPPAYPDFL-AQPAYNPEYVAPPPKTG--------------------------
+-----------------------------------
+>HIPCM03126 | A0A3Q2ZJ17 | OMAGroup:581296 | [Hippocampus comes]
+------------------------------------------------------------
+------MASGLPGV-VFL---ALLCAVLPI---CVSS-DDKHCLAYTDSSSQYHPYERCV
+Q------GFCCGTCQSKRCCSDSFWRFTE-DSQEACEARPIFM-----------------
+--------------------ESSSMLGSV---IGGVIFVVVMLIICCVCPCCCLYKVCRK
+P-QPVIATTTHTTVVT-NTPQ-HYPQQ--PTTSPGQ-PQPYQGTPY--PA-YQPVPMQVG
+YGGQPMP--------------------------PQGYPPQPMPAMPHPGHPYTP------
+-GPPPTYQEAT--GPAYPP---NPMPYSQAAFTP--GQPSYPLQPPMQPQ----------
+-----ANATAAQMDYL-AQPAYNPDFVSPPPKMG--------------------------
+-----------------------------------
+>ASTMX14269 | ENSAMXG00000005329 | OMAGroup:581296 | [Astyanax mexicanus]
+----------------------------------MLQYRRCAH-------------PSSS
+LSSRPAMASALPALLLL--------AGLVF----FAA-ADSDCGAYFASNGVYRGSQDCS
+N-----YQFCCGTCDERYCCYDYYKKLED-D---YCAFSP--K-----------------
+--------------------MNSIAIGSI---IGGIIFMIVLFVVCCVCPCCCLYKLCKK
+P-RPVLTTTTHTTVISS-----QYPQQ---P---TN-----PGPQYTSPA-YQHVPAQPG
+YGAQPGYPG---QPM---------------------------PPAPYQGQPYAP------
+-GAPPPYHES-----GY------PAPYSQAAYDG--GHPPYPLQPPTQPGYAQ-------
+--------PPPTTDYSATQPPYNPAYVEPPKTGY--------------------------
+-----------------------------------
+>PYGNA14519 | A0A3B4BRX9 | OMAGroup:581296 | [Pygocentrus nattereri]
+------------------------------------------------------------
+------MATTLPVLLLL--------SGLLF----MVA-SDKDCDSYYTPSGGYRKSQDCG
+Y-----LQYCCGSCSNRYCCSNPYMKLDD-D---LCFKSV--------------------
+---------------------NPITIGSA---IAGVMTIVIFFLLCCLCPCCCLYKMCVK
+P-RPVVTTTTHTTVLST-----QYPQQ--QP---LN-----PGAQY--PA-YQQIPAQPG
+YSAQPGYEG---QPM-------------------------PMPAAPYQGQPYAP------
+-GPPPPYHES-----GY------PAPYSQAAYDG--GQPPYPLQPPTQPGYAH-------
+--------PTPLTDYSATQPAYNPAYVDPPKTGY--------------------------
+-----------------------------------
+>ICTPU16717 | A0A2D0PL93 | OMAGroup:581296 | [Ictalurus punctatus]
+------------------------------------------------------------
+------MASSIPAVLAFF--------ATLL----VTA-VADDCDGYISSSGLFNPSKDCS
+F-----NQFCCGSCDNRYCCSDIFSRLNE-G---SCNFIK-N------------------
+--------------------NSVHIATGG---VVGMIIFIILIIACCVCPCCCLYKMCRK
+P-RPVMTTTTTT-VLTT-----QYPQQ--QP---SN-----PPTQYPAFQ-PVPAPVQPG
+YGVQPGYG-------------------------------------PYQGQPYAP------
+-GPPPPYQESG----GY------PAPYSQAAYDG--TQPPYPLNPPVPV-----------
+--QPGYAQPPPPTDYNAAQLPYNPAYMEPPKTGY--------------------------
+-----------------------------------
+>DANRE21291 | Q1LXB2 | OMAGroup:581296 | [Danio rerio]
+------------------------------------------------------------
+------MASTVPVLLLLF-------AGLFT----ATL-ADDDCKPYITSSGKMRTSIDCG
+F-----LQFCCGNCDNRYCCSNPLSKLTE-DQQDDCFFSN-DF-----------------
+--------------------NKPIVVGVT---ITGIVLLIIVFIVCCVCPCCCIYKMCRK
+P-RPVMGATTTTV-VST-----QCIQQ---P---VV-----QGGQY--PP-YQPIPPQSG
+YSGAPGYGA---TPM---------------------------PKAPYQGHPYAA------
+-GPPPPYQEAGG--PGY------PVPYSQAAFDG--GQASYPMQPPAQPGYGQPGYGQPA
+YGQPGYPQQHPPTDYSATQPAYNPAYVEPPKPGY--------------------------
+-----------------------------------
+>PROCA06865 | ENSPCAG00000011604 | OMAGroup:581296 | [Procavia capensis]
+------------------------------------------------------------
+--------------------------------------LGELCAN------S-MLPESCP
+-------MFCCGTCSDQYCCSDVMKRFVW-NK-EQCPTPEESMDSIVKRIQELASSRISA
+NYD------------SDPMPGFGATVAIG---LTIFVLVVVTVIVCFTCSCCCLYRMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PNMPPSY-----PGPTY--QG-YHPMP--PQ
+PA---------------------------------------MPAAPYPTQ-YPPPYPAQP
+VGP-PAYHETLAGGA---------------------------------------------
+-----------AGPYSASQPPYNPAYMDSPKAVP--------------------------
+-----------------------------------
+>RABIT12800 | ENSOCUG00000022049.2 | OMAGroup:581296 | [Oryctolagus cuniculus]
+------------------------------------------------------------
+----------------------------------------EVCVASRGG--T-PAPDFCP
+-------DFCCGACDAQYCCSDVLKKLVW-NE-EACAGPETSAP---ANTEPLEQLGSAL
+RFR-------SSFDT-DPMSGFGATVAIG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PSAPPSY-----PGPTY--QG-YHPMP--SQ
+PG---------------------------------------VPAAPYPTQ-YPPPYLAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------ATPYLASQPPYNPAYTDPPRA----------------------------
+-----------------------------------
+>OCHPR13474 | ENSOPRG00000017227 | OMAGroup:581296 | [Ochotona princeps]
+------------------------------------------------------------
+-----MAASRTPLLPLLL---LLLLPLPPPP---PGA-LAEVCVVPRGE--S-RLPTSCP
+-------DFCCGTCDAQYCCSDVRKKLVW-SQ-HACGGPPTSAP---ASSEPLEQLGSAL
+RFR-------SSFDSDDPMSGFGATVAVG---LTIFVLSVVTIIVCFTCSCCCLYKMCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSAPPSY-----PGPTY--QG-YHSMP--SQ
+PG---------------------------------------IPGAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AMPYVASQPPYNPAYTDSPKAAP--------------------------
+-----------------------------------
+>DIPOR00728 | ENSDORG00000014890 | OMAGroup:581296 | [Dipodomys ordii]
+------------------------------------------------------------
+--------------------------------------HGEMCLKFGGD--N-QIVESCP
+-------DFCCGSCAHQYCCSDVLKKFEG-NE-ELCGMMKASAS---NSTEPMEQVGVAM
+RFG-------SSYENDDN------------------------------------------
+TMPXIVTTTTATTVVHA-----PYPQP--PNVPPSY-----PGPTY--QG-YQPMP--PQ
+------------------------------------------PTAPYPAQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AVPYPTSQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>CAVPO15332 | ENSCPOG00000020498 | OMAGroup:581296 | [Cavia porcellus]
+------------------------------------------------------------
+------MAAPSPAPWTLW---LLLLLLCETG---AHG-AGEVCPAVLGG--S-SFRRLCP
+-------DFCCGSCSNQYCCSDVLKRLVW-TD-DECAVSMASVS---TPTEPWEQLGSPL
+RFG-------SSFDS-DSMSGFGATVAIG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPIVTTTTATTVVHA-----PYPQP--PSAPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYSTQ-YPPPYPAQP
+MGP-PAYHETLTGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDPPKAVP--------------------------
+-----------------------------------
+>MOUSE64037 | SHSA5_MOUSE | OMAGroup:581296 | [Mus musculus]
+------------------------------------------------------------
+------MAAPAPSLWTLL---LLLLLLPPP----PGA-HGELCRPFGED--N-SIPVFCP
+-------DFCCGSCSNQYCCSDVLRKIQW-NE-EMCPEPESSRFST-PAEETPEHLGSAL
+KFR-------SSFDS-DPMSGFGATVAIG---VTIFVVFIATIIICFTCSCCCLYKMCCP
+Q-RPVVTNTTTTTVVHA-----PYPQPQPQPVAPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYLAQP
+TGP-PPYHESLAG-----------------------------------------------
+----------------ASQPPYNPTYMDSLKTIP--------------------------
+-----------------------------------
+>RATNO20300 | A0A0G2K447 | OMAGroup:581296 | [Rattus norvegicus]
+-----------------------------------------MR-------------LFVR
+PSVRPAMAAPAPSPWTLS---LLLLLLLPS----PGA-HGELCRPFGED--N-SIPESCP
+-------DFCCGSCSSQYCCSDVLKKIQW-NE-EMCPEPESRFSA---HPETPEQLGSAL
+KYQ-------SSLDS-DNMPGFGATVAIG---LTVFVVFIATIIVCFTCSCCCLYKMCCR
+P-RPVVSNTTTTTVVHT-----AYPQP--QPVAPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYLAQS
+TGP-PAYHETLAG-----------------------------------------------
+----------------ASQPPYNPAYMDPPKAVP--------------------------
+-----------------------------------
+>NANGA14075 | ENSNGAG00000000521.1 | OMAGroup:581296 | [Nannospalax galili]
+------------------------------------------------------------
+------MAAPAPAPRTLL---LLLLLLLPPP---PGA-LGEICRPLGG---D-NFPEYCP
+-------DFCCGSCSNQYCCSDVLKKVPW-NE-DICAEEA-RFS---TQPETLEQLGSAL
+RFR-------SSFDS-DPMSGFGATVAIG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PTYHETLA------------------------------------------------
+----------------ASQPPYNPAYMDPPKAVP--------------------------
+-----------------------------------
+>ICTTR14767 | ENSSTOG00000010176 | OMAGroup:581296 | [Ictidomys tridecemlineatus]
+------------------------------------------------------------
+------------------------------------A-HGEVCMAAPGS--N-LFPESCP
+-------DFCCGSCFDQYCCSDVLKKFEW-NE-EMCAVPETSAP---IHTEPLEQLGSAM
+RFG-------SGFDS-DPMSGFGATVAIG---LTIFVLSVVTIIVCFTCSCCCLYKMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDPPKAA---------------------------
+-----------------------------------
+>CERAT32284 | A0A2K5KIX6 | OMAGroup:581296 | [Cercocebus atys]
+------------------------------------------------------------
+------------------------------------M-NRCVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFMW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P--PVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYVDAPKAAL--------------------------
+-----------------------------------
+>CHLSB10323 | A0A0D9RTA2 | OMAGroup:581296 | [Chlorocebus sabaeus]
+------------------------------------------------------------
+------MAAPVPALRILL---LLLLLLPPP----PGA-HGEVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>MACFA27067 | A0A2K5V715 | OMAGroup:581296 | [Macaca fascicularis]
+------------------------------------------------------------
+------------------------------------M-NRCVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVAIIICFTCSCCCLYKTCRR
+P--PVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYVDAPKAAL--------------------------
+-----------------------------------
+>MACNE06946 | A0A2K6DXW9 | OMAGroup:581296 | [Macaca nemestrina]
+------------------------------------------------------------
+------------------------------------M-NRCVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASEEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P--PVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYVDAPKAAL--------------------------
+-----------------------------------
+>MANLE07347 | A0A2K6AJZ1 | OMAGroup:581296 | [Mandrillus leucophaeus]
+------------------------------------------------------------
+------------------------------------M-NRCVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P--PVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYVDAPKAAL--------------------------
+-----------------------------------
+>PAPAN10499 | A0A096NBQ2 | OMAGroup:581296 | [Papio anubis]
+------------------------------------------------------------
+------MAAPVPALRILL---LLLLLLPPP----PGA-HGEVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--SQ
+PG---------------------------------------MPVAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGAA---------------------------------------------
+-----------AAPYPASQPPYNPAYVDAPKAAL--------------------------
+-----------------------------------
+>COLAP08638 | A0A2K5K8W9 | OMAGroup:581296 | [Colobus angolensis palliatus]
+------------------------------------------------------------
+--------------------------------------HGEVCTASHGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------SGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+----------AAAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>RHIBE18976 | A0A2K6JV51 | OMAGroup:581296 | [Rhinopithecus bieti]
+------------------------------------------------------------
+---------------------------------------MNRCV--SPL--H-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>RHIRO14072 | A0A2K6RFS6 | OMAGroup:581296 | [Rhinopithecus roxellana]
+------------------------------------------------------------
+---------------------------------------MNRCV--SPL--H-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TK-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYS--DPMLGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>GORGO13678 | G3S0B7 | OMAGroup:581296 | [Gorilla gorilla gorilla]
+------------------------------------------------------------
+------MTAPVPAPRILL---PLLLLLLLPP--PPGA-RGEVCMASRGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TE-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAEGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>HUMAN69831 | SHSA5_HUMAN | OMAGroup:581296 | [Homo sapiens]
+------------------------------------------------------------
+------MTAPVPAPRILL---PLLLLLLLTP--PPGA-RGEVCMASRGL--S-LFPESCP
+-------DFCCGTCDDQYCCSDVLKKFVW-SE-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>PANPA27781 | ENSPPAG00000022466.1 | OMAGroup:581296 | [Pan paniscus]
+------------------------------------------------------------
+-------------------------------------------MASRGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-SE-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>PANTR31057 | A0A6D2XR57 | OMAGroup:581296 | [Pan troglodytes]
+------------------------------------------------------------
+-------------------------------------------MASRGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-SE-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>PONAB10814 | H2PAU5 | OMAGroup:581296 | [Pongo abelii]
+------------------------------------------------------------
+-------------------------------------------MASRGL--S-LFPESCP
+-------DFCCGTCHDQYCCSDVLKKFVW-TE-KRCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>NOMLE02766 | ENSNLEG00000006485 | OMAGroup:581296 | [Nomascus leucogenys]
+------------------------------------------------------------
+----------XPAPR--I---LLLLLLLLPP--PPGA-RGEVCMASRGL--S-LFPESCP
+-------DFCCGTCYDQYCCSDVLKKFVW-TE-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAIG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>AOTNA35634 | A0A2K5D2X8 | OMAGroup:581296 | [Aotus nancymaae]
+------------------------------------------------------------
+------MATPAPAPRILL-----LLLLLLPP--PPGA-HGEVCTASRGL--S-LFPESCP
+-------DFCCGTCYDRYCCSDVLKKFVW-TE-ERCAVPEASVP---ADVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHAMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYSASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>CALJA07253 | ENSCJAG00000002915 | OMAGroup:581296 | [Callithrix jacchus]
+------------------------------------------------------------
+------MAARAPAPRILL---LLLPLLLQPPGGEPGA-YGEVCTASRGL--S-LFPESCP
+-------DFCCGTCHDRYCCSDVLKKFVW-TE-ERCAVPEASVP---ADVEPVEQLGSAL
+KFR-------SGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCCQ
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHAMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PACHETLAGGV---------------------------------------------
+-----------AAPYSASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>SAIBB10730 | A0A2K6SU11 | OMAGroup:581296 | [Saimiri boliviensis boliviensis]
+------------------------------------------------------------
+--------------------------------------HGEVCTASRGL--S-LFPESCP
+-------DFCCGTCYDRYCCSDVLKKFVW-TE-EGCSVPEASVP---ADVEPVEQLGSAL
+RFR-------PGYD--DPMSGFGATLAVG---LTIFVLSVVTIIVCFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHAMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYSASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------
+>CARSF06005 | ENSTSYG00000007718 | OMAGroup:581296 | [Carlito syrichta]
+------------------------------------------------------------
+------MAAPVPAPRILL---L--LLLLPPP---PGA-HGEMCVTSPGF-----NPEFCP
+-------VFCCGTCNNQYCCSDIQKKMEW-SG-ENCAVP---------------------
+------------------------------------------------------------
+-EAXIVTTTTATTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AVPYPASQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>PROCO00216 | A0A2K6FY69 | OMAGroup:581296 | [Propithecus coquereli]
+------------------------------------------------------------
+------MAAPALVPRILL---LL-LLLLPPP---PGA-HSEVCVASHGL--S-LFPKSCP
+-------DFCCGTCYDQYCCSDVLKKFVW-NK-EKCTVPETSVP---ASMKPLEQLGSPL
+RFR-------SSLDG-DPMSGFGATVAIG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPVVTTTTATTVVHT-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AVPYPASQPPYNPAYMEPPKAAP--------------------------
+-----------------------------------
+>OTOGA02903 | H0Y1S1 | OMAGroup:581296 | [Otolemur garnettii]
+------------------------------------------------------------
+------MAAPVPVPRILL---LL-LLLLPPP---PGA-HSEVCVASRGL--S-LFPESCP
+-------DFCCGTCYKQYCCSDVLKKFVW-NE-EKCAVPETSVP---TSMEQLEQLGSAL
+RFR-------SSLDS-DPMSGFGATVAIG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AVPYPASQPPYNPAYMEPPKAAP--------------------------
+-----------------------------------
+>BOVIN17879 | SHSA5_BOVIN | OMAGroup:581296 | [Bos taurus]
+------------------------------------------------------------
+------MAAPAPAPRILV---LLLLLLPAP----EGA-QSELCMISHGR--K-VDPWVCP
+-------DFCCGNCNDQYCCSDVLKQVMW-IE-EDCHAPEASILT--------------D
+DFD-------SGFD-SDPVARFGTVIAIG---VTLFVIAVVTVIVCCTCSCCCLYKMCRR
+P-QPVVTTTMATTVTHT-----PYLQP------PSY-----PGPTY--QG-YHSVV--PQ
+PG---------------------------------------MPTAPYP---------TQP
+TGP-PAYHETMAGGA---------------------------------------------
+-----------ALPYPASQPPYNPAYMEPPKAVP--------------------------
+-----------------------------------
+>CAPHI14774 | A0A452E0Z8 | OMAGroup:581296 | [Capra hircus]
+------------------------------------------------------------
+-----PALPAMAAPRILL---LLLLLLPAP----EGA-QSQRCRTSPGR--KVDADLVCP
+-------DFCCGHCYNQYCCSDVSKQVVW-TD-KDCQALEASVHT--------------E
+AFT-------SIFD-DDPMSKFGTVLAIG---VTLFVIGVVTVIICCTCSCCCLYKMCRR
+P-RPVVTTTMATTVTHT-----PYLQP------PSY-----PGPTY--QG-YHSVV--PQ
+PG---------------------------------------LPTAPYP---------TQP
+MGP-PAYHETMAGDA---------------------------------------------
+-----------ALPYPASQPPYNPAYMEPPKIVS--------------------------
+-----------------------------------
+>SHEEP08479 | W5NPH9 | OMAGroup:581296 | [Ovis aries]
+------------------------------------------------------------
+--------------------------------------------------------LVCP
+-------DFCCGHCYNQYCCSDVSKQVVW-TD-KDCQAPEASFISPCCSGPQWLSVHT-E
+AST-------SIFD-DDPMSKFGTVLAIG---VTLFVIGVVTVIICCTCSCCCLYKMCRR
+P-QPVVTTTTATTVTHT-----PYLQP------PSY-----PGPTY--QG-YHSVV--PQ
+PG---------------------------------------LPTAPYPTQ--PTPYPTQP
+MGP-PAYHETMAGDA---------------------------------------------
+-----------ALPYPASQPPYNPAYMEPPKIVS--------------------------
+-----------------------------------
+>PIGXX04016 | ENSSSCG00000011357.3 | OMAGroup:581296 | [Sus scrofa]
+------------------------------------------------------------
+------MATSAPAPRILL---LLLLLLLPPP---PGA-HSEVCMVSTGR--S-LFPKFCS
+-------DFCCGTCNYQYCCSDVLEKFVW-SK-DECDVPEA-------------------
+--------------------RFGTTVAVG---LTIFVLSVVTIIICFTCSCCYLYKMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PSVPPSY-----PGPTY--QG-YHSMP--SQ
+PA---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETMAGGA---------------------------------------------
+-----------AMPYPASQPPYNPAYVDPPKAAP--------------------------
+-----------------------------------
+>TURTR15458 | A0A2U3UZW5 | OMAGroup:581296 | [Tursiops truncatus]
+------------------------------------------------------------
+------MAAPAPAPRILL---LLLLL-LPAP---PGA-HSEVCMVSAGH--N-LFPKFCP
+-------DFCCGTCYDQYCCSDVLKKFVW-NG-EECGVPEASVP---TNVEPPEQLGSTL
+KLR-------FSLDS-DPMSGFGTTVAVG---LTIFVLSVVTIIICFTCSCCYLYKMCRR
+P-RPVVTTTTATTVVHT-----PYSQA--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYLAQP
+MGP-PAYHETVAGGA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>MUSPF09850 | M3YTZ7 | OMAGroup:581296 | [Mustela putorius furo]
+------------------------------------------------------------
+------MAARVPALRILL---LL-LLLLPPP---PGA-HSEVCVASRGH--N-FFPESCP
+-------DFCCGNCYNQYCCSDELKKFVG-NE-ESCAEPKASVF---AGTEPLEQLGSAL
+RFR-------SSLDS-DPMSGFGATVAIG---LTIFVLTVVTVIICFTCSCCSLYKMCRR
+PPRPVVTTTTATTVVHT-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDPPKTVP--------------------------
+-----------------------------------
+>AILME05747 | G1L2T9 | OMAGroup:581296 | [Ailuropoda melanoleuca]
+------------------------------------------------------------
+------MAARVPAPRILL---LL-LLLLPPP---PGA-HSEVCVASRGR--S-LFPESCP
+-------DFCCGNCYNQYCCSDERKKFVW-NE-ESCTVPWASVS---TDTEPLEQLGSAL
+RFR-------SSLDS-DPMSGFGATVAIG---LTIFVLSVVTVIICFTCSCCYLYKMCRR
+PPRSVVTTTTATTVVHT-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--LQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDPRKAAP--------------------------
+-----------------------------------
+>URSAM02689 | A0A452RXZ1 | OMAGroup:581296 | [Ursus americanus]
+------------------------------------------------------------
+------MAARVPAPRILL---LL-LLL--PP---PPA-HSEVCVASRGR--N-LFPESCP
+-------DFCCGNCYNQYCCSDERKKFVW-NE-ESCTVPRASVS---TDTEPLEQLGSAL
+RFR-------SSLDS-DPMSGFGATVAIG---LTIFVLSVVTVIICFTCSCCYLYKMCRR
+PPRPVVTTTTATTVVHT-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+LGP-PAYHETLAGGA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>FELCA01849 | ENSFCAG00000025309 | OMAGroup:581296 | [Felis catus]
+------------------------------------------------------------
+------MAARVPTPRILL---LL--LLLPPP---PGV-HSEVCVASRGR--I-LFPESCP
+-------DFCCGTCYKQYCCSDVLKKFVW-DE-EKCSVPEASVS---TDIEPLEQLGSAL
+RFR-------SSLDS-DPMSGFGATVAIG---LTIFVLSVVTVIICFTCSCCYLYKMCRR
+P-RPVVTTTTATTVVHT-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+LGP-PAYHETLAGGA---------------------------------------------
+-----------AMPYPATQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>PTEVA08113 | ENSPVAG00000006638 | OMAGroup:581296 | [Pteropus vampyrus]
+------------------------------------------------------------
+------MAALAPAPRILL---LLLL--LPPP---PGA-QSEVCTAASGN--N-LFPMFCP
+-------DFCCGTCSSQYCCSDELKKFMW-SQ-EMCPDLEDSLASTGEHLEHLEQLSSSL
+RFS-------SYMDS-DLMSGFGATVGIG---LTAFVLFVVTIIICFTCSCCCLYKMCRR
+P-RPIVTTTTSTTVVHT-----PYPQP--PSVPPSY-----PGPSY--QG-YHPVP--PR
+PG---------------------------------------MAAAPYPTQ-YPPPYPAQP
+VGP-PAYHETLAGNA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDPPKAAH--------------------------
+-----------------------------------
+>EQUAS00634 | ENSEASG00005009131.1 | OMAGroup:581296 | [Equus asinus]
+------------------------------------------------------------
+----------------------------------------MVCTASRGR--S-LFPEFCP
+-------DFCCGSCYDQYCCSDVLKKFVW-NE-ERCAVPEASGP---TDMEPLEQLGSPL
+RFR-------SCLDS-DPMSGFGVTVAVG---LTIFVLSIVTIIICFTCSCCCLYKMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PSVPPSY-----PGPTY--QG-YHSMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------ATPYSASQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>HORSE06748 | F6UAU0 | OMAGroup:581296 | [Equus caballus]
+------------------------------------------------------------
+------MAAPTPAPRILL---LV-LLLLPPP---PGA-HGEVCTASRGR--S-LFPEFCP
+-------DFCCGTCYDQYCCSDVLKKFVW-NE-ERCAVPEASGP---TDMEPLEQLGSPL
+RFR-------SGLDS-DPMSGFGATVAVG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPVVTTTTATTVVHA-----PYPQP--PSVPPSY-----PGPTY--QG-YHPMP--PQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------ATPYSASQPPYNPAYMDPPKAAP--------------------------
+-----------------------------------
+>DASNO04091 | ENSDNOG00000041410 | OMAGroup:581296 | [Dasypus novemcinctus]
+------------------------------------------------------------
+------MAAPAPALRLLC---LL--LLLPPP---PGA-RGEVCMVSREH--V-LSPEVCP
+-------VFCCGTCDNQYCCSDVLKKYEW-TD-GNCVMPQFNVA------ADLEQMDSAV
+RSL-------SSLDS-DPLSGFGATVAVG---LTIFVLSVVTIIICFTCSCCCLYKMCRR
+P-RPVVSSTTSTTVVHS-----AYPQA--PSMPPSY-----PGPTY--QG-YHPPH--PQ
+PG---------------------------------------MPVAPYPMQ-YPPPYPTQP
+FGP-PAYQESLSGDA---------------------------------------------
+-----------AMPYPASQPPYNPAYMDAPKAAP--------------------------
+-----------------------------------
+>MONDO11982 | ENSMODG00000014355 | OMAGroup:581296 | [Monodelphis domestica]
+------------------------------------------------------------
+---------PSPEKDQIS---MLLLILFPW----SRK-EGEGCQMVKGE--SCGFFDSCP
+-------KFCCGNCFLKYCCSDVQNKFDD-DI--LCSDDRYNLF----VIGLMGQLGSSM
+DGG-------LGM--GDPVFNFAISVGIG---TAIFVLFVVSIILCFTCSCCSLYKMCRR
+P-RPSVVT-TSTTVVHP-----AYPQQ--PNVPPVY-----PGAMY--QG-YQPMP--VQ
+PG---------------------------------------MPAAPYPTQ-YPPPYLAQP
+TGP-PAYNETHPAGA---------------------------------------------
+-----------GAPYPVSQPPYNPAYMDPPK-----------------------------
+-----------------------------------
+>ANAPP09932 | U3I9Q4 | OMAGroup:581296 | [Anas platyrhynchos platyrhynchos]
+------------------------------------------------------------
+------MAAWRGALGL-----GLLLLCLLP----VPA-LGEYCQAYLDPHSKVQPAKSCP
+-------SFCCGDCTRRYCCSNSLFRFDE-EQQLMCNLLDGRTSDLGNLN----------
+------LLL-DSEDLSDYGPSFGTLVAIG---ITVFAVIVITIILCLTCSCCCLYKACRK
+P-RPVVTTTTATTVVHA-----AYPQP---GVPPSY-----PVAPY--QG-YQPMPIQPQ
+PG---------------------------------------MPAAPYPTQ-YPPPYPMQP
+SGP-PAYHETVAAGA---------------------------------------------
+-----------GAPYPISQPPYNPAYMDPQKPTY--------------------------
+-----------------------------------
+>FICAL12805 | U3K332 | OMAGroup:581296 | [Ficedula albicollis]
+------------------------------------------------------------
+------MALCRGVLGI-----CLFLLLLLP----AAV-LGEDCPAYTGYFGEVQLAQPCP
+-------DFCCGTCLDRYCCSNVLLKFDE-QK-LQCNQLNERVPDVEDPVEALALASR--
+----------DRPGLLDGMQGFGGLIAIG---VTVFAVIIITIILCLTCSCCCLYKTCRR
+P-RPVVTTTATTTVVHS-----AYPQQ--PAVPPSY-----PAAPY--QG-YQPVAVQPQ
+PG---------------------------------------MPVAPYPAQ-YPPPYPMQP
+AGP-PAYHETVAAGA---------------------------------------------
+-----------GAPYPT-QPPYNPAYMDPQKPTY--------------------------
+-----------------------------------
+>PARMJ02489 | ENSPMJG00000005107.1 | OMAGroup:581296 | [Parus major]
+MIFTGLFQPKCIAMRRPPHGERSLSLVSAPPHPARCRFPRAAP-------------PCAP
+RGAAALMALCPGVVTA-----CILGLLLLP----AAV-FSEDCHAYISYLGNVQSAQSCP
+-------HFCCGSCVNRYCCSNILLKFDE-Q---NCNQRNQRMPDIEDSLQALKKLSEKL
+RVSDSQIFEDPDDFLDASDPSFGTLIAIG---VTVFAVIVITVILCLTCSCCCLYKACRR
+P-RPVVTTTATTAVVHS-----AYPQQ--PAVPPNY-----PAAPY--QG-YQPVAIQPQ
+PG---------------------------------------MPVAPYPAQ-YPPPYPMQP
+AGP-PAYHETVAAGA---------------------------------------------
+-----------GAPYPT-QPPYNPAYVDPQKPAY--------------------------
+-----------------------------------
+>CHRPI19565 | ENSCPBG00000018440.1 | OMAGroup:581296 | [Chrysemys picta bellii]
+------------------------------------------------------------
+------MVP-AGACSR-----LALSVLLLL----AGA-SGEYCRAYTDSDGRMYSEKSCP
+-------QFCCGNCISRYCCLDRSYKFGE-DEQFMCNVLDDRTYQPIKEETL--------
+------KLRSHFDDDWEPRPSFGTFVAIG---VTLFVVFVVTVILCFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQQ--PGIPPGY-----PVAPY--QG-YHPVPVQPQ
+HG---------------------------------------MPAAPYPTQ-YPPPYPTQV
+SGP-PAYHETVAAGA---------------------------------------------
+-----------GVPYPVNQPPYNPAYMDPQKPIY--------------------------
+-----------------------------------
+>SPHPU02516 | ENSSPUG00000002999.1 | OMAGroup:581296 | [Sphenodon punctatus]
+------------------------------------------------------------
+------MGLTSPSSRSLLALGFLLLLPSPP----AGA-LGEDCKAYTDSDGHTHPIKSCP
+-------EFCCGTCNNRYCCTNYLYKFYE-AEHHLCNMLAERTSQLVREE----------
+------ALMYRTDFNDDWTPSFPIAAVIG---VVLFVAFIVLIIACFTCSCCCLYQMCRK
+P-RPVVTTSTTTTVVQV-----PYPQQ--QGTPAGYPAARYPAAPY--QG-YYPVPAQPQ
+PG---------------------------------------MPVAPQPTS-YPPPYPVQP
+SGP-PAYHETVAAGA---------------------------------------------
+-----------GTPYPISQPPYNPAYMDAQNSTY--------------------------
+-----------------------------------
+>CAPTE10916 | R7TLV2 | OMAGroup:581296 | [Capitella teleta]
+---------MSEGVEEKEEGKKEVN------------RRRAV----------------SH
+KINREPINQE-----------EIRPQQSCSDRGFLADWSREYCRGFIDKHGQWNNGFSCP
+KWGSPDDQYCCGDDMDRHCCPPPEHGSRK-PD----------------------------
+-----------------YDVTGSLPVIVGALVATLIMLATISVLMCFFCRCCWAYKRRKR
+Q-NHATDCQSHSISTRA----NAYVMD-------------YSACNH------NALP--PE
+FA--------------------------------------PLPPCPYPTD-DPPPYPGER
+NDS------------------DDKLPLQRAECFP--GNNPVAMT----------------
+----------------TNVVTRNSQFADPEEPDRLCDLEVEMTNYPRFGYCRNQTPNPQI
+QQQPTTWRQNRAAAEIDSVEPAIIVRPRTTVSVAV
+>CAPI119325 | estExt_fgenesh1_pg.C | OMAGroup:581296 | [Capitella sp. 1]
+---------MSEGVEEKEEGKKEVN------------RRRAV----------------SH
+KINREPINQE-----------EIRPQQSCSDRGFLADWSREYCRGFIDKHGQWNNGFSCP
+KWGSPDDQYCCGDDMDRHCCPPPEHGSRK-PD----------------------------
+-----------------YDVTGSLPVIVGALVATLIMLATISVLMCFFCRCCWAYKRRKR
+Q-NHATDCQSHSISTRA----NAYVMD-------------YSACNH------NALP--PE
+FA--------------------------------------PLPPCPYPTD-DPPPYPGER
+NDS------------------DDKLPLQRAECFP--GNNPVAMT----------------
+----------------TNVVTRNSQFADPEEPDRLCDLEVEMTNYPRFGYCRNQTPNPQI
+QQQPTTWRQNRAAAEIDSVEPAIIVRPRTTVSVAV
+>Q8N114
+------------------------------------------------------------
+------MTAPVPAPRILL---PLLLLLLLTP--PPGA-RGEVCMASRGL--S-LFPESCP
+-------DFCCGTCDDQYCCSDVLKKFVW-SE-ERCAVPEASVP---ASVEPVEQLGSAL
+RFR-------PGYN--DPMSGFGATLAVG---LTIFVLSVVTIIICFTCSCCCLYKTCRR
+P-RPVVTTTTSTTVVHA-----PYPQP--PSVPPSY-----PGPSY--QG-YHTMP--PQ
+PG---------------------------------------MPAAPYPMQ-YPPPYPAQP
+MGP-PAYHETLAGGA---------------------------------------------
+-----------AAPYPASQPPYNPAYMDAPKAAL--------------------------
+-----------------------------------

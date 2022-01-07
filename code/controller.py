@@ -21,16 +21,17 @@ from conservation import writeall,runthefolder
 """
 if __name__ == "__main__":
     print("######### Pipeline Started ################")
-    motif=input("Enter The motif you are searching for :")
-    
-    print("#########################")
-    #getuniprot(motif)
-    #getortho(motif)
-    #makealignment(motif)
-    writeall(motif)
-    f = open("../data/"+motif+"/"+motif+"_results.tsv", "w")
-    runthefolder(motif,f)
-
+    repeat=int(input("Enter the number of motifs you want to search for:"))
+    for rep in range(repeat):
+        motif=input("Enter the "+ str(rep+1)+". motif you are searching for :")
+        print("#########################")
+        getuniprot(motif)
+        getortho(motif)
+        makealignment(motif)
+        writeall(motif)
+        f = open("../data/"+motif+"/"+motif+"_results.tsv", "w")
+        runthefolder(motif,f)
+        print("######### Your "+str(rep+1)+". "+motif+ "'s folders are ready ################")
 
 
 #clustalo --profile1 orthologs/A0AVI4.fasta -i orthologs/A0AVI4_orthologs.fasta -o A0AVI4_orthologs_out.fasta --force --auto
