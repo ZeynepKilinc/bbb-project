@@ -14,10 +14,10 @@ def makealignment(motif):
         fname=fname.split("/")[4][:-16]
         
         os.system("clustalo -i "+"../data/"+motif+"/orthologs/"+fname+"_orthologs.fasta -o "+"../data/"+motif+"/alignment/"+fname+"_msa.fasta --force --auto ")
-        #os.system("mafft -i orthologs/"+profile+"_orthologs.fasta > msa/"+profile+"_orthologs_out.fasta ")
+        #os.system("mafft -i "+"../data/"+motif+"/orthologs/"+fname+"_orthologs.fasta > "+"../data/"+motif+"/alignment/"+fname+"_msa.fasta")
         #inform the user about the process
         if i==int(len(flist)/4):
-                print("----%25 completed----")  
+            print("----%25 completed----")  
         if i==int(len(flist)/2):
             print("----%50 completed----")
         if i==int(len(flist)/4*3):
@@ -31,6 +31,6 @@ def makealignment(motif):
 """
 in_file = "orthologs/A0AVI4_orthologs.fasta"
 out_file = "A0AVI4_orthologs_out.fasta"
-clustalomega_cline = ClustalOmegaCommandline(infile = in_file, outfile = out_file, verbose = True, auto = True)
+clustalomega_cline = ClustalOmegaCommandline(infile = in_file, outfile = out_file, force = True, auto = True)
 print(clustalomega_cline)
 """

@@ -42,7 +42,7 @@ def getortho(motif):
         f.write("> "+unikod+"\n"+line.split("\t")[9])
         f.close()
         if i==int(len(lines)/4):
-                print("----%25 completed----")  
+            print("----%25 completed----")  
         if i==int(len(lines)/2):
             print("----%50 completed----")
         if i==int(len(lines)/4*3):

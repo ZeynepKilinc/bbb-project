@@ -26,6 +26,7 @@ def getuniprot(motif):
         finalrange,ensemblid,orthodb,genecards,omaId=[],"","","",""
         if len(line1)>0:
             #sp|Q14738|2A5D_HUMAN    516     519     USERPAT1        .       .       .      NPqY
+            print(line1)
             head=line1.split("\t")[0].split("|")[1]
             url= "https://www.uniprot.org/uniprot/"+head+".txt"
             r = requests.get(url)

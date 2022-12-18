@@ -1,0 +1,11 @@
+=> 3D STRUCTURE PREDICTION 
+
+
+=> STATISTICAL INTERPRETATION
+
+=> alignment kalitesi
+- blood brain barrier mammallarda oluşan bir şeyse biz neden prokaryotları vs de katıyoruz buraya bi cutoff katmamız faydalı olmaz mı
+- ideal bir alignmentta statistiksel değerler için 30dan fazla sekans olması yeterli mi 100 iyi mi çıkabildiği kadar çıksın mı 
+
+--motif evrimsel olarak nereye kadar korunmuş araştırılcak
+---msa kalitesini furkanla konuş
