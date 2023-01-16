@@ -1,0 +1,13 @@
+Status	Count	Motif
+Has the motif	31	Y-T-R-F
+Transmembrane	5	Y-T-R-F
+Cytosolic Motif	3	Y-T-R-F
+Has the motif	150	N-P-X-Y
+Transmembrane	110	N-P-X-Y
+Cytosolic Motif	95	N-P-X-Y
+Has the motif	50	F-X-N-P-X-Y
+Transmembrane	30	F-X-N-P-X-Y
+Cytosolic Motif	15	F-X-N-P-X-Y
+Has the motif	40	D-S-Q-V
+Transmembrane	20	D-S-Q-V
+Cytosolic Motif	8	D-S-Q-V

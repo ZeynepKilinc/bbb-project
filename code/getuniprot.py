@@ -9,9 +9,9 @@ def getuniprot(motif):
     os.system("mkdir ../data/"+motif)
     f = open("../data/"+motif+"/"+motif+"_proteins.tsv", "w")
     f.write("motifstart"+ "\t" +"motifend"+ "\t" +"siteStart"+ "\t" +"siteEnd"+"\t"+
-                "UniproId"+ "\t" +"EnsemblId"+"\t" +"OrthodbId"+"\t"+"GeneCardsId"+"\t"+"OmaId"+"\t"+"Sequence"+"\n")
+                "UniproId"+ "\t" +"EnsemblId"+"\t" +"OrthodbId"+"\t"+"GeneCardsId"+"\t"+"OmaId"+"\t"+"Sequence"+"region"+"\n")
 
-    url= "https://prosite.expasy.org/cgi-bin/prosite/PSScan.cgi?sig="+motif+"&lineage=Homo%20sapiens&db=sp&output=txt"
+    url= "https://prosite.expasy.org/cgi-bin/prosite/PSScan.cgi?sig="+motif+"&lineage=Homo%20sapiens&db=sp,tr&output=txt"
     #use requests
     r = requests.get(url)
     content = r.content
@@ -21,8 +21,7 @@ def getuniprot(motif):
     #alternatif olarak ensembl
     for l in range(0,len(content1),1):
         line1=content1[l]
-        hastransmem=0
-        iscytop=0
+        istrans,hastransmem,iscytop=0,0,0
         finalrange,ensemblid,orthodb,genecards,omaId=[],"","","",""
         if len(line1)>0:
             #sp|Q14738|2A5D_HUMAN    516     519     USERPAT1        .       .       .      NPqY
@@ -42,12 +41,19 @@ def getuniprot(motif):
                 if line[0] =="FT":
                     if line[1]=="TRANSMEM":
                         hastransmem=1
+                        rng=line[3].replace(" ","").split("..")
+                        print(rng)
+                        if int(rng[0])<int(motifstart) and int(motifend)<int(rng[1]):
+                                istrans=1
+                                finalrange=rng
+                                print("FOUND IT LOOK AT THE PREVIOUS PROTEIN")
                     if line[1]=="TOPO_DOM":
                         if "Cytoplasmic" in content[t+1].split("   ")[6]:
                             rng=line[3].replace(" ","").split("..")
                             if int(rng[0])<int(motifstart) and int(motifend)<int(rng[1]):
                                 iscytop=1
                                 finalrange=rng
+                                print("FOUND IT BUT NOT LOOK AT THE PREVIOUS PROTEIN")
                 if line[0] =="DR":
                     if line[1].split(";")[0] =="Ensembl":
                         ensemblid=line[1].split(";")[2]
@@ -66,10 +72,14 @@ def getuniprot(motif):
                 if t>sequencestartl and line[0]!="//":
                     sequence+=content[t].strip()
                     sequence=sequence.replace(" ","")
-            if hastransmem==1 and iscytop==1:
+            if hastransmem==1 and (iscytop==1 or istrans==1):
                 #print(len(finalrange),motifstart,motifend,head,finalrange[0]+ "\t" +finalrange[1],ensemblid)
+                if iscytop==1:
+                    reg="Cytoplasm"
+                elif istrans==1:
+                    reg="Transmembrane"
                 f.write(motifstart+ "\t" +motifend+ "\t" +finalrange[0]+ "\t" +finalrange[1]+"\t"+
-                            head+"\t"+ensemblid+"\t"+orthodb+"\t"+genecards+"\t"+omaId+"\t"+sequence+"\n")
+                            head+"\t"+ensemblid+"\t"+orthodb+"\t"+genecards+"\t"+omaId+"\t"+sequence+"\t"+reg+"\n")
             if l==int(len(content1)/4):
                 print("----%25 completed----")  
             if l==int(len(content1)/2):
@@ -89,3 +99,4 @@ def getuniprot(motif):
             
     print("---------getuniprot.py ended-----------\n\n")
 
+#getuniprot("Y-T-R-F")

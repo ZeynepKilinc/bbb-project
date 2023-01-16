@@ -3,6 +3,7 @@ from getuniprot import getuniprot
 from getortho import getortho
 from makealignment import makealignment
 from conservation import writeall,runthefolder
+from removegaps import removegaps
 
 #This is the code to run all other python scripts and terminal commands
 
@@ -31,6 +32,8 @@ if __name__ == "__main__":
         writeall(motif)
         f = open("../data/"+motif+"/"+motif+"_results.tsv", "w")
         runthefolder(motif,f)
+        removegaps(motif)
+        
         print("######### Your "+str(rep+1)+". "+motif+ "'s folders are ready ################")
 
 
